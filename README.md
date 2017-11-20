@@ -32,4 +32,5 @@ SentimentAnalysis/src/main/resources/emotionCategory.txt SentimentAnalysis/src/m
 ***3. Run the SentimentAnalysis***
 
 ***4. Convert result file into json format***
-   - Revise Program Arguments as in step 2. The input path is the path you save the SentimentAnalysis result.
+   - 1. Revise Program Arguments as in step 
+   - 2. The input path is the path you save the SentimentAnalysis result.
