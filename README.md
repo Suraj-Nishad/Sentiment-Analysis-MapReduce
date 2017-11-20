@@ -39,9 +39,9 @@ SentimentAnalysis/src/main/resources/emotionCategory.txt SentimentAnalysis/src/m
 Visualize the sentimental analysis result.
 
 ***1. Unzip sentiment-visualization***
-   -1. Replace the generated result.json file into data/result.json.
-   -2. cd to sentiment-visualization in terminal.
+   - 1. Replace the generated result.json file into data/result.json.
+   - 2. cd to sentiment-visualization in terminal.
 ```
 python3 -m http.server 8000
 ```
-   -3. input http://localhost:8000/ into browser.
+   - 3. input http://localhost:8000/ into browser.
