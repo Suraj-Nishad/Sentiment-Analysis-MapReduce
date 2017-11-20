@@ -31,9 +31,10 @@ SentimentAnalysis/src/main/resources/emotionCategory.txt SentimentAnalysis/src/m
 
 ***3. Run the SentimentAnalysis***
 
-***4. Convert result file into json format***
+***4. Convert result file into json format*** 
    - 1. Revise Program Arguments as in step 
    - 2. The input path is the path you save the SentimentAnalysis result.
+   - 3. Run JSONConverter.java.main()
 
 # Sentimental Visualization
 Visualize the sentimental analysis result.
@@ -45,3 +46,4 @@ Visualize the sentimental analysis result.
 python3 -m http.server 8000
 ```
    - 3. input http://localhost:8000/ into browser.
+![alt text](https://github.com/melanthafu/Sentiment-Analysis-MapReduce/to/Sentiment_visualization.png)
