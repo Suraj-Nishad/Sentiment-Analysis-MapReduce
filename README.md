@@ -2,8 +2,8 @@
 Using MapReduce to analyze the article sentiments.
 
 ***1. open a new project called SentimentAnalysi in Intellij***
-    - a. create new class called SentimentAnalysis under java file
-    - b. add required dependencies in pom.xml
+   - a. create new class called SentimentAnalysis under java file
+   - b. add required dependencies in pom.xml
 ```
     <dependencies>
 
