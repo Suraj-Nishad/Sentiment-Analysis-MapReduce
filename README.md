@@ -25,9 +25,9 @@ Using MapReduce to analyze the article sentiments.
 ***2. edit configutstions***
    - Revise Program Arguments by adding the input, output paths. Using space to seperate them.
 e.g. in this case:
-'''
+```
 SentimentAnalysis/src/main/resources/emotionCategory.txt SentimentAnalysis/src/main/resources/input SentimentAnalysis/src/main/resources/output
-'''
+```
 
 ***3. Run the SentimentAnalysis***
 
