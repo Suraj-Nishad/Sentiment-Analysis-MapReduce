@@ -34,3 +34,14 @@ SentimentAnalysis/src/main/resources/emotionCategory.txt SentimentAnalysis/src/m
 ***4. Convert result file into json format***
    - 1. Revise Program Arguments as in step 
    - 2. The input path is the path you save the SentimentAnalysis result.
+
+# Sentimental Visualization
+Visualize the sentimental analysis result.
+
+***1. Unzip sentiment-visualization***
+   -1. Replace the generated result.json file into data/result.json.
+   -2. cd to sentiment-visualization in terminal.
+```
+python3 -m http.server 8000
+```
+   -3. input http://localhost:8000/ into browser.
