@@ -46,4 +46,4 @@ Visualize the sentimental analysis result.
 python3 -m http.server 8000
 ```
    - 3. input http://localhost:8000/ into browser.
-![Sentiment_visualization](https://github.com/melanthafu/Sentiment-Analysis-MapReduce/blob/master/Sentiment_visualization.PNG)
+   - ![Sentiment_visualization](https://github.com/melanthafu/Sentiment-Analysis-MapReduce/blob/master/Sentiment_visualization.PNG)
