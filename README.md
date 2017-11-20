@@ -2,8 +2,8 @@
 Using MapReduce to analyze the article sentiments.
 
 ***1. open a new project called SentimentAnalysi in Intellij***
-a. create new class called SentimentAnalysis under java file
-b. add required dependencies in pom.xml
+    - a. create new class called SentimentAnalysis under java file
+    - b. add required dependencies in pom.xml
 ```
     <dependencies>
 
@@ -23,7 +23,7 @@ b. add required dependencies in pom.xml
 ```
 
 ***2. edit configutstions***
-Revise Program Arguments by adding the input, output paths. Using space to seperate them.
+    - Revise Program Arguments by adding the input, output paths. Using space to seperate them.
 e.g. in this case:
 '''
 SentimentAnalysis/src/main/resources/emotionCategory.txt SentimentAnalysis/src/main/resources/input SentimentAnalysis/src/main/resources/output
@@ -32,4 +32,4 @@ SentimentAnalysis/src/main/resources/emotionCategory.txt SentimentAnalysis/src/m
 ***3. Run the SentimentAnalysis***
 
 ***4. Convert result file into json format***
-Revise Program Arguments as in step 2. The input path is the path you save the SentimentAnalysis result.
+    - Revise Program Arguments as in step 2. The input path is the path you save the SentimentAnalysis result.
